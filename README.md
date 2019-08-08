@@ -6,3 +6,5 @@ add by user B
 this respository is only used to test the git
 11111111111
 aaaaaaaaaa
+bbbbbbbbbb
+>>>>>>> Stashed changes
